@@ -235,7 +235,7 @@ router.post('/signIn',urlencodedParser,function(req,res)
       throw err;
     
     if(data.length == 0)
-      res.render('signIn',{message:"Email Id not registered"});
+      res.render('signin',{message:"Email Id not registered"});
     else{
       // check whether password matches with the password in the database
       if(bcrypt.compareSync(pass,data[0].password))
@@ -245,7 +245,7 @@ router.post('/signIn',urlencodedParser,function(req,res)
         res.redirect('/index');
       }
       else{
-        res.render('signIn', {message:"Password not matched"});
+        res.render('signin', {message:"Password not matched"});
       }
     }
   });
