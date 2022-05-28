@@ -38,6 +38,7 @@ All the courses are seen as nodes which are plotted on a graph. Whenever user op
 Then the euclidean distance list is sorted and side by side the corresponding course list is also sorted.<br>
 Therefore, now the course list contains all the courses which are of the similar domain to the selected course, but in sorted order on the basis of euclidean distance i.e in the descending order of similarity with the selected course.<br>
 Therefore the first course in the list will be most similar to the selected course and the last course in the list will be least similar to the selected course.
-
+<br><br>
+Then from this sorted list of courses, we can display top 5-8 courses as recommendation to the user.
  
 
