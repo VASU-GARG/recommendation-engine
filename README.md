@@ -10,8 +10,9 @@ Euclidean distance is an algorithm for calculating the distance between two poin
 ![image](https://user-images.githubusercontent.com/77994881/170842570-10639e1c-ca64-4650-b911-8da759a95850.png)
 
 In the above picture, the points P and Q  are in a plane and represented in a graph, and the distance between these two points is given by Euclidean distance
+<br><br>
+![Screenshot 2022-05-29 051815](https://user-images.githubusercontent.com/77994881/170846242-32775619-d12e-47ce-94fa-e26ec28e5fce.png)
 
-![image](https://user-images.githubusercontent.com/77994881/170842618-3524d65e-9ed7-4019-bc9c-61fd4ddcb889.png)
 <br><br><br>
 Euclidean distance tells how a value is related to the other. Lower the value the more relevant ( closer ) the two points are.
 
@@ -40,5 +41,14 @@ Therefore, now the course list contains all the courses which are of the similar
 Therefore the first course in the list will be most similar to the selected course and the last course in the list will be least similar to the selected course.
 <br><br>
 Then from this sorted list of courses, we can display top 5-8 courses as recommendation to the user, where the recommendation is made on the basis of course duration and course genre
+<br><br>
+## Tech Stacks Used
+  1. HTML
+  2. CSS
+  3. JAVASCRIPT
+  4. TWIG
+  5. Node.Js
+  6. Express.Js
+  7. MongoDB
  
 
