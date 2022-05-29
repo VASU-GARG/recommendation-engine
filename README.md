@@ -1,4 +1,4 @@
-# Course Recommendation-engine | Microsoft Engage '22
+# Course Recommendation-Engine | Microsoft Engage '22
 
 link for the hosted site : https://recommendation-engine-vg.herokuapp.com/
 
