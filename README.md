@@ -3,6 +3,17 @@
 link for the hosted site : https://recommendation-engine-vg.herokuapp.com/
 
 <br><br>
+
+## npm libraries to be installed
+<br>
+    1. npm install express<br>
+    2. npm install mongoose<br>
+    3. npm install crypto<br>
+    4. npm install body-parser<br>
+    5. npm install express-session<br>
+    6. npm install bcryptjs
+
+<br><br>
 ## Euclidean distance:
 
 Euclidean distance is an algorithm for calculating the distance between two points in a plane or n-dimensional space.
